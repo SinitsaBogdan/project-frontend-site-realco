@@ -1,0 +1,8 @@
+*{box-sizing:border-box;margin:0;padding:0}html{background-color:var(--background-color-main)}body{overflow-x:hidden}a{color:inherit;font-style:normal;list-style:none;text-decoration:none}button,input{background-color:transparent;border:none;color:inherit;cursor:pointer;font-family:inherit;font-size:inherit;outline:none}li,ol{list-style:none;text-decoration:none}h1,h2,h3,h4,h5,h6{font-size:inherit}input::-moz-placeholder{color:inherit;font-family:inherit;font-size:inherit}input::placeholder{color:inherit;font-family:inherit;font-size:inherit}
+@font-face{font-family:Gilroy;font-weight:400;src:url(../assets/fonts/Gilroy-Regular-31d54a4b841c0e438f13.woff) format("woff"),url(../assets/fonts/Gilroy-Regular-b91b0127c56a8e5f9e83.ttf) format("truetype"),url(../assets/fonts/Gilroy-Regular-1d051d9d4215c09cbcaa.eot) format("eot")}@font-face{font-family:Gilroy;font-weight:700;src:url(../assets/fonts/Gilroy-Bold-5fb38b9fa452b5814397.woff) format("woff"),url(../assets/fonts/Gilroy-Bold-b900325e44ec0c673e88.ttf) format("truetype"),url(../assets/fonts/Gilroy-Bold-a732fed1bc6140852a0b.eot) format("eot")}@font-face{font-family:Gilroy;font-weight:500;src:url(../assets/fonts/Gilroy-Medium-2bc7f5d7ea77ee1bddb3.woff) format("woff"),url(../assets/fonts/Gilroy-Medium-f9f832b0ed3f1ab138c9.ttf) format("truetype"),url(../assets/fonts/Gilroy-Medium-b84941b7bdcce7cbba6d.eot) format("eot")}@font-face{font-family:Gilroy;font-weight:600;src:url(../assets/fonts/Gilroy-SemiBold-e38937dbf8202c144802.woff) format("woff"),url(../assets/fonts/Gilroy-SemiBold-6780292641f883b3dad3.ttf) format("truetype"),url(../assets/fonts/Gilroy-SemiBold-8134b9ab378c54626928.eot) format("eot")}
+
+
+
+
+
+
