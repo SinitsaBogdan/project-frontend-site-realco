@@ -1,0 +1,18 @@
+/* GLOBAL ---------------------------------------------------- */
+@import url(../../../style/normalize.css);
+@import url(../../../style/fonts.css);
+@import url(../../../style/variables.css);
+@import url(../../../style/global.css);
+
+/* PAGE ------------------------------------------------------ */
+@import url(./root.css);
+
+/* WIDGETS --------------------------------------------------- */
+@import url(../../widgets/header/Header.css);
+@import url(../../widgets/footer/Footer.css);
+
+/* ENTITIES -------------------------------------------------- */
+
+/* FEATURES -------------------------------------------------- */
+
+/* SHARED ---------------------------------------------------- */
